@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44432a6e-e8a4-44fd-8c93-1017ad7aee42" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/tme.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-pack_web_static.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-pack_web_static.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-do_deploy_web_static.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-do_deploy_web_static.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-deploy_web_static.py" beforeDir="false" afterPath="$PROJECT_DIR$/3-deploy_web_static.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AUTHORS" beforeDir="false" afterPath="$PROJECT_DIR$/AUTHORS" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/engine/file_storage.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/engine/file_storage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup_mysql_dev.sql" beforeDir="false" afterPath="$PROJECT_DIR$/setup_mysql_dev.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup_mysql_test.sql" beforeDir="false" afterPath="$PROJECT_DIR$/setup_mysql_test.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_models/test_amenity.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_models/test_amenity.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_models/test_city.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_models/test_city.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_models/test_place.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_models/test_place.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_models/test_review.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_models/test_review.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_models/test_state.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_models/test_state.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_models/test_user.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_models/test_user.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/0-setup_web_static.sh" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/models/engine/db_storage.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LklY992i8qNZffREdquV4X7YbP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/mhisterking/Desktop/alx_courses/AirBnB_clone_v3&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44432a6e-e8a4-44fd-8c93-1017ad7aee42" name="Changes" comment="" />
+      <created>1676423005751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676423005751</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
