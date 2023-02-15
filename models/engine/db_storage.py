@@ -79,7 +79,7 @@ class DBStorage:
         """Get an instance from the database"""
         dat = self.all(cls)
         if dat:
-            for object in dat:
+            for object in dat.values():
                 if object.id == id:
                     return object
         else:
