@@ -74,3 +74,17 @@ class DBStorage:
     def close(self):
         """call remove() method on the private session attribute"""
         self.__session.remove()
+
+    def get(self, cls, id):
+        """Get an instance from the database"""
+        dat = self.all(cls)
+        if dat:
+            for object in dat:
+                if object.id == id:
+                    return object
+        else:
+            return None
+
+    def count(self, cls=None):
+        """Get the number of instances"""
+        return len(self.all(cls))
