@@ -3,10 +3,7 @@
 The start of my api
 """
 from api.v1.views import app_views
-from api.v1.views.index import *
-
-
-from flask import Flask
+from flask import Flask, jsonify
 from models import storage
 from os import getenv
 
@@ -20,6 +17,11 @@ def clos(self):
     close the storage after an operation
     """
     storage.close()
+
+
+@app.errorhandler(404)
+def error(name):
+    return jsonify({"error": "Not found"})
 
 
 if __name__ == "__main__":
